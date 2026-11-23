@@ -29356,6 +29356,97 @@
 
     ]
   },
+  "hal-05864097": {
+    "authors": [
+      {
+        "name": "Lucas Terriel",
+        "person": "lucas-terriel",
+        "status": [
+          "professor"
+        ]
+      },
+      {
+        "name": "Vincent Jolivet",
+        "person": "vincent-jolivet",
+        "status": [
+          "professor"
+        ]
+      },
+      {
+        "name": "Jean-Victor Boby",
+        "person": "jean-victor-boby",
+        "status": [
+          "professor"
+        ]
+      },
+      {
+        "name": "Philippe Pons",
+        "person": "philippe-pons",
+        "status": [
+          "professor"
+        ]
+      },
+      {
+        "name": "Charlie Mostajo",
+        "person": null,
+        "status": [
+
+        ]
+      }
+    ],
+    "statuses": [
+      "professor"
+    ]
+  },
+  "hal-05871611": {
+    "authors": [
+      {
+        "name": "Chahan Vidal-Gorène",
+        "person": "chahan-vidal-gorene",
+        "status": [
+          "professor"
+        ]
+      },
+      {
+        "name": "Arpine Avetisyan",
+        "person": null,
+        "status": [
+
+        ]
+      },
+      {
+        "name": "Edita Matevosyan",
+        "person": null,
+        "status": [
+
+        ]
+      },
+      {
+        "name": "Seda Kirakosyan",
+        "person": null,
+        "status": [
+
+        ]
+      },
+      {
+        "name": "Victoria Khurshudyan",
+        "person": null,
+        "status": [
+
+        ]
+      },
+      {
+        "name": "Pollet Samvelian",
+        "person": null,
+        "status": [
+
+        ]
+      }
+    ],
+    "statuses": [
+      "professor"
+    ]
+  },
   "halshs-00078451": {
     "authors": [
       {
